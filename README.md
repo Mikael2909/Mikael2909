@@ -1,5 +1,5 @@
 # 💫 About Me:
-I have an interest in programming <br>especially in the website and game <br>development section since 2012. <br>In the website development section<br> I only focus on the front end and in<br> the game development section I am<br>in charge of the game programming section. <br>
+I have an interest in programming <br>especially in the website and game development section since 2012. In the website development sectionI only focus on the front end and in the game development section I amin charge of the game programming section. <br>
 
 
 ## 🌐 Socials:
@@ -13,6 +13,6 @@ I have an interest in programming <br>especially in the website and game <br>dev
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Mikael2909&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Mikael2909&icon=0&color=0)](https://visitcount.itsvg.in)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
