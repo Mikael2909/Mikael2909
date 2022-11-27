@@ -1,5 +1,5 @@
 # 💫 About Me:
-I have an interest in programming especially in the website and game development section since 2012. In the website development sectionI only focus on the front end and in the game development section I amin charge of the game programming section. <br>
+I have an interest in programming especially in the website and game development section since 2012. In the website development sectionI only focus on the front end and in the game development section I am in charge of the game programming section. <br>
 
 
 ## 🌐 Socials:
